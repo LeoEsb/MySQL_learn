@@ -15,3 +15,6 @@
 
 ## À chaque connexion à MySQL:   
 `SET NAMES 'utf8';` 
+
+## Nombres entiers
+![First](img/IMG.JPG)
